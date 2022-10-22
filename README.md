@@ -11,6 +11,6 @@
 
 ## Checking for Overfitting and Underfitting of the model
 
-<img align="center" alt="hospitalbed"  width="700" src=
+<img align="center" alt="hospitalbed"  width="700" src="https://github.com/TanujaKanekar/Predictive-Maintainence/blob/main/img2.png">
 
 
