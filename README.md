@@ -22,6 +22,6 @@
 <img align="center" alt="input page"  width="700" src="https://github.com/TanujaKanekar/Predictive-Maintainence/blob/main/img3.png">
 
 ### Output Page - two sample output
-<img align="center" alt="input page"  width="700" src=""
+<img align="center" alt="input page"  width="700" src="https://github.com/TanujaKanekar/Predictive-Maintainence/blob/main/img4.png"
 
 
