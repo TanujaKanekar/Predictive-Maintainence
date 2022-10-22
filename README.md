@@ -12,5 +12,12 @@
 ## Checking for Overfitting and Underfitting of the model
 
 <img align="center" alt="hospitalbed"  width="700" src="https://github.com/TanujaKanekar/Predictive-Maintainence/blob/main/img2.png">
+   
+## Model Selected
+   - From the Table above we tried to select XGBoost as our final model.
+   - We used Flask to deploy the model.
+   
+## Flask Deployment 
+### Input Page
 
 
