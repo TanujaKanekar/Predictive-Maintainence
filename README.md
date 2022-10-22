@@ -1,1 +1,1 @@
-# Predictive-Maintainence--Machice-Failure-Prediction
+# Predictive-Maintainance--Machine-Failure-Prediction
